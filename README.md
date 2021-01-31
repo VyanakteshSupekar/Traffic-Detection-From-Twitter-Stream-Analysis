@@ -1,2 +1,3 @@
 # Traffic-Detection-From-Twitter-Stream-Analysis
 Developed a system which will get public traffic tweets from twitter and apply tokenization, remove stop words and apply stemming to a particular tweet. Then the android application will give a specific reason for traffic within two points derived from the tweet and user can select an alternate path for travelling. Technologies Used: JAVA, MYSQL, SQLite, ANDROID STUDIO. This project has mobile application as well as desktop system.
+When you extract Full_Android app zip, add app and .gradle extracted files in that folder. Then run the folder in android studio.
